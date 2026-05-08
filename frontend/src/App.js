@@ -30,7 +30,7 @@ function App() {
           <h2>Contact Info</h2>
           <div className="contact-grid">
             <p>📧 rohanrout648@gmail.com</p>
-            <p>📞 +91-8249520013</p>
+            <p>📞 +91-8249520013g</p>
             <p>🔗 github.com/rohanrout</p>
             <p>🔗 linkedin.com/in/rohanrout</p>
           </div>
